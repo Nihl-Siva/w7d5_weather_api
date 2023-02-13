@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background-color: #252525;
+}
+
+input {
+    margin: 3vh;
+}
+
+button {
+    margin: 3vh;
+    margin-left: 0;
+}
+
+.headingContainer {
+    background-color: black;
+    padding: 3vh;
+}
+
+.formContainer {
+    margin: 3vh;
+    padding: 3vh;
+    border-bottom: black solid;
+}
+
+.dataContainer {
+    color: black;
+    margin: 3vh;
+    padding: 3vh;
+}
